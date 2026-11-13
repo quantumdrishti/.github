@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://quantumdrishti.com/">
-    <img src="https://quantumdrishti.com/favicon/android-chrome-512x512.png" width="112" alt="Quantum Drishti logo" />
+    <img src="https://raw.githubusercontent.com/quantumdrishti/.github/main/profile/logo.svg" width="112" alt="Quantum Drishti logo" />
   </a>
 </p>
 
